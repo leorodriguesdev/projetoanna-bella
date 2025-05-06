@@ -20,25 +20,6 @@ O site simula o portfólio de uma modelo fictícia chamada **Anna Bella**. Nele 
 - Estrutura de navegação com links entre páginas
 - Estilização com foco em layout fixo e responsivo básico
 
-## 📂 Estrutura do Projeto
-
-projetoanna-bella/
-├── biografia.html
-├── campanhaspublicitarias.html
-├── contato.html
-├── estilo.css
-├── index.html
-└── imagens/
-
-
-## 🎨 Prévia do Projeto
-
-Veja abaixo algumas capturas de tela do projeto em funcionamento:
-
-| Home | Biografia | Campanhas | Contato |
-|------|-----------|-----------|---------|
-| ![](./imagens/home.png) | ![](./imagens/biografia.png) | ![](./imagens/campanhas.png) | ![](./imagens/contato.png) |
-
 ## 🚀 Objetivo do Projeto
 
 - Fixar os conceitos básicos de desenvolvimento web
